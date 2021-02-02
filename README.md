@@ -1,5 +1,17 @@
+<p align="center">
+</a>
+	<h2 align="center"> DSC Official Website </h2>
+	<h4 align="center"> Official website for DSC-SISTEC. <h4>
+</p>
 
+---
+### Fork, clone and edit the repo and send a pull request to make the changes in the GitHub webpage of DSC-SISTEC.
 
+## Functionalities 
+- [x]  All social links
+- [x]  All important information about DSC
+- [x]  Links to become member, blogs, webinars, etc
+- [x]  links of event
 
 # basic instructions for Contributions
 
